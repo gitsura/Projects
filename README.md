@@ -25,4 +25,4 @@ A Python script that generates a **custom HTML calendar** for a given month and 
 
 ---
 
-}
+
